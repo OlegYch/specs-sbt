@@ -1,0 +1,2 @@
+-J-XX:MaxMetaspaceSize=200m
+-J-Xmx300m
